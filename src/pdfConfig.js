@@ -46,8 +46,8 @@ const pdfCategories = {
         { name: "Infographic", path: "pdfs/infographics/infographic.pdf" },       
     ],    
     "Testimonials": [
-        { name: "Testimonials 1", path: "pdfs/testimonials/testimonials_1.pdf" },       
-        { name: "Testimonials 2", path: "pdfs/testimonials/testimonials_2.pdf" },               
+        { name: "Testimonials 1", path: "pdfs/testimonials/Testimonials_1.pdf" },       
+        { name: "Testimonials 2", path: "pdfs/testimonials/Testimonials_2.pdf" },               
     ],       
     "Investors": [
         { name: "Investors", path: "pdfs/investors/Investors.pdf" },       
@@ -56,7 +56,7 @@ const pdfCategories = {
       { name: "Serco", path: "pdfs/case_studies/Serco.pdf" },
     ],
     "Back Cover": [
-      { name: "Back Cover", path: "pdfs/back_page/back_page.pdf" },
+      { name: "Back Cover", path: "pdfs/back_page/Back_Page.pdf" },
     ],
   };
   

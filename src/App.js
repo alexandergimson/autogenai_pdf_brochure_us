@@ -9,7 +9,7 @@ import pdfCategories from './pdfConfig';
 function App() {
   const [selectedPdfs, setSelectedPdfs] = useState([]);
   const [previewPdf, setPreviewPdf] = useState(null);
-  const [downloadFileName, setDownloadFileName] = useState("Enter file name");
+  const [downloadFileName, setDownloadFileName] = useState("Enter filename");
   const [allOpen, setAllOpen] = useState(false);
 
 

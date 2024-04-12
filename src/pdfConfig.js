@@ -24,10 +24,11 @@ const pdfCategories = {
     ],   
     "Competitors": [
         { name: "Competitive Landscape", path: "pdfs/competitors/Competitive_Landscape.pdf" },
+        { name: "ChatGPT", path: "pdfs/competitors/ChatGPT.pdf" },
         { name: "Rohirrim", path: "pdfs/competitors/Rohirrim.pdf" },        
         { name: "Copilot", path: "pdfs/competitors/Copilot.pdf" },        
-        { name: "Loopio", path: "pdfs/competitors/Loopio.pdf" },        
-        { name: "Writer", path: "pdfs/competitors/Writer.pdf" },        
+        { name: "Loopio", path: "pdfs/competitors/Loopio.pdf" },
+        { name: "Writer", path: "pdfs/competitors/Writer.pdf" },
 
     ],       
     "Security": [

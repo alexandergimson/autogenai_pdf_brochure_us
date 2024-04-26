@@ -12,6 +12,9 @@ const pdfCategories = {
         { name: "Build vs buy 1", path: "pdfs/build_vs_buy/Build_Vs_Buy_1.pdf" },
         { name: "Build vs buy 2", path: "pdfs/build_vs_buy/Build_Vs_Buy_2.pdf" },        
     ],     
+    "FAQs": [
+        { name: "Technical FAQs", path: "pdfs/FAQs/Technical_FAQs.pdf" },        
+    ],         
     "Efficiency Gains": [
         { name: "Enterprise", path: "pdfs/efficiency_gains/Enterprise.pdf" },
         { name: "SMEs", path: "pdfs/efficiency_gains/SMEs.pdf" },        

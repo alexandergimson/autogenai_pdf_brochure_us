@@ -9,7 +9,7 @@ function NavBar() {
         <img src="https://autogenai.com/wp-content/uploads/2023/09/AutogenAI-logo-white-768x156.png" alt="Logo" /> {/* Replace with your logo path */}
       </div>
       <div className="nav-info">
-        Feedback? email alex.gimson@autogenai.com
+        Feedback? email jaimie.anzelone@autogenai.com
       </div>
     </nav>
   );

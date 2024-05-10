@@ -16,9 +16,7 @@ const pdfCategories = {
         { name: "Technical FAQs", path: "pdfs/FAQs/Technical_FAQs.pdf" },        
     ],         
     "Efficiency Gains": [
-        { name: "Enterprise", path: "pdfs/efficiency_gains/Enterprise.pdf" },
-        { name: "SMEs", path: "pdfs/efficiency_gains/SMEs.pdf" },        
-        { name: "Charities", path: "pdfs/efficiency_gains/Charities.pdf" },        
+        { name: "ChatGPT Study", path: "pdfs/efficiency_gains/ChatGPT_Study.pdf" },         
     ],            
     "Increase Your Win Rate": [
         { name: "Enterprise", path: "pdfs/win_rate_increases/Enterprise.pdf" },
@@ -38,7 +36,8 @@ const pdfCategories = {
         { name: "Security", path: "pdfs/security/Security.pdf" },       
     ],     
     "Training and adoption": [
-        { name: "Training and adoption", path: "pdfs/training_and_adoption/training_and_adoption.pdf" },       
+        { name: "Training and adoption", path: "pdfs/training_and_adoption/training_and_adoption.pdf" },
+        { name: "Test and evaluate", path: "pdfs/training_and_adoption/test_and_validate_experience.pdf" },
     ],     
     "The Tech Behind The Product": [
         { name: "The Tech Behind The Product", path: "pdfs/tech/The_Tech.pdf" },       

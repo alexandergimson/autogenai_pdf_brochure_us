@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/autogenai_pdf_brochure_us/static/css/main.3a451285.css",
-    "main.js": "/autogenai_pdf_brochure_us/static/js/main.8fe73a79.js",
+    "main.js": "/autogenai_pdf_brochure_us/static/js/main.ee0e335e.js",
     "static/js/592.b807815f.chunk.js": "/autogenai_pdf_brochure_us/static/js/592.b807815f.chunk.js",
     "index.html": "/autogenai_pdf_brochure_us/index.html",
     "main.3a451285.css.map": "/autogenai_pdf_brochure_us/static/css/main.3a451285.css.map",
-    "main.8fe73a79.js.map": "/autogenai_pdf_brochure_us/static/js/main.8fe73a79.js.map",
+    "main.ee0e335e.js.map": "/autogenai_pdf_brochure_us/static/js/main.ee0e335e.js.map",
     "592.b807815f.chunk.js.map": "/autogenai_pdf_brochure_us/static/js/592.b807815f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a451285.css",
-    "static/js/main.8fe73a79.js"
+    "static/js/main.ee0e335e.js"
   ]
 }
